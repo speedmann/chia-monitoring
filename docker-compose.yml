@@ -1,0 +1,14 @@
+version: '2'
+services:
+  prometheus:
+    build: prometheus
+    ports:
+      - "9090:9090"
+    volumes:
+      - prom_data:/prometheus
+  grafana:
+    build: grafana
+    ports:
+      - "3000:3000"
+volumes:
+  prom_data:
