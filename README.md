@@ -114,6 +114,7 @@ After it is done you will be able to access your grafana dashboard at `<host ip>
 
  - [ ] Make installation easier
  - [ ] Add chia farm monitoring (Plots, Proofs, Challenge response time, etc.)
+ - [ ] Add SSL encryption and make it possible to access from outside the home-network
  - [ ] Alerting (Telegram?)
  - [ ] Make the dashboards nicer
 
