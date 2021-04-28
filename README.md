@@ -7,6 +7,11 @@ This repo is meant to provide a basic monitoring for your chia farming/plotting 
 * Health overview over your HDDs and SSDs
 * Historical data for as long as you want (Provided you have space to store them)
 
+## Screenshots
+
+![smart](https://github.com/speedmann/chia-monitoring/blob/main/screenshots/smart.png?raw=true)
+![system](https://github.com/speedmann/chia-monitoring/blob/main/screenshots/system.png?raw=true)
+
 ## Requirements
 For all of this to work, you will need some software installed on your system. This can be the plotter, the farm system or basically any system you want to use *as long as it can run docker*
 
